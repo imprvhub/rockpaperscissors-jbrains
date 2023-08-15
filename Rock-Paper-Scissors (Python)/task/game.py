@@ -1,4 +1,10 @@
+# Rock-Paper-Scissors (Python)
+# https://github.com/imprvhub/rockpaperscissors-jbrains
+# Graduate Project Completed By Iván Luna, August 15, 2023
+# For Hyperskill (Jet Brains Academy). Course: Python Core
+
 import random
+
 lists = ['rock', 'paper', 'scissors']
 exit = ['!exit']
 user_name = input('Enter your Name: ')
